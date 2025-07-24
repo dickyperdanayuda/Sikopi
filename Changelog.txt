@@ -1,0 +1,14 @@
+========================================================================
+				Change Log SI-MBAH-GALAK
+========================================================================
+------------------------------------------------------------------------
+Update versi 1.0											05/07/2022
+------------------------------------------------------------------------
+1. Menu barang dan menu stok di pisah
+2. Pada entry stok barang harus memilih project dan gudang mana barang tersebut berada
+3. Manager dapat entry manual barang masuk dari donatur di menu Barang Masuk
+4. Laporan stok berdasarkan gudang
+5. Laporan Barang masuk 
+6. Laporan Barang keluar berdasarkan request
+------------------------------------------------------------------------
+------------------------------------------------------------------------
